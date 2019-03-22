@@ -6,7 +6,6 @@ The ATM system software have four main functionality :
 P.S : To access to your acconut you must use pin number and only one attempt is allowed.
 * Default pin number is 123
 
-P.S This project implemented using java and javafx
 ########################
 ###Huthaifa A Quraini###
 ########################
